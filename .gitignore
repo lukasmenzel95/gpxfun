@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env
+.ipynb_checkpoints/
+data/
+outputs/
+cache/
+*.gpx
+*.fit
+*.csv
+*.geojson
+.DS_Store
+Thumbs.db
